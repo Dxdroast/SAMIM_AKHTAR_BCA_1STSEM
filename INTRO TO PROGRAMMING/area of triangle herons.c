@@ -1,3 +1,4 @@
+// WAP IN C TO CALCULATE THE AREA OF A TRIANGLE USING HERONS FORMULA
 #include<stdio.h>
 #include<math.h>
 int main(){
