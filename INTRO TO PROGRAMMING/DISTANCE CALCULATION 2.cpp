@@ -1,3 +1,5 @@
+//WAP IN C TO FIND THE DISTANCE BETWEEN TWO POINTS
+
 #include<stdio.h>
 #include<math.h>
 int main(){
