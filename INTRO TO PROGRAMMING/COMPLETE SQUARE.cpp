@@ -1,3 +1,5 @@
+//WRITE A PROGRAMME IN C TO CHECK THE NUMBER IS COMPLETE SQUARE OR NOT
+
 #include <stdio.h>
 #include <math.h>
 
