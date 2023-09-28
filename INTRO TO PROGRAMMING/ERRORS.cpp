@@ -1,3 +1,4 @@
+// WAP IN C TO DEMONSTRATE ALL THE ERRORS IN C
 #include <stdio.h>
 
 int main() {
