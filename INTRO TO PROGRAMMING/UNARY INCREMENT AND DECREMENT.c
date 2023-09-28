@@ -1,3 +1,4 @@
+// WAP IN C TO DEMONSTRATE INCREMENT OPERATOR AND DECREMENT OPERATOR
 #include <stdio.h>
 
 int main() {
