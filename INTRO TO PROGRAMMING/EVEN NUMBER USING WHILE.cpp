@@ -1,3 +1,4 @@
+// WAP IN C TO PRINT ALL THE EVEN NUMBER IN A SPECIFIC RANGE GIVEN BY USER
 #include<stdio.h>
 int main(){
 	int start,stop;
