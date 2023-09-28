@@ -12,9 +12,14 @@ int main(){
 		printf("YOU ARE DEAD ");
 	}
 	}
-	else{
-		printf("YOU ARE DEAD");
+	else if(age<=0){
+	
+		printf("NUMBER IS INVALID");
 	}
+	else{
+		printf("YOU ARE NOT ELIGIBLE TO CAST VOTE ");
+	}
+	
 
 	}
 	
