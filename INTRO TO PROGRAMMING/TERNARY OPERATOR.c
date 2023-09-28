@@ -1,3 +1,5 @@
+// WAP IN C TO DEMOSNTRATE TERNARY OPERATORS
+
 #include<stdio.h>
 int main(){
 	int num;
