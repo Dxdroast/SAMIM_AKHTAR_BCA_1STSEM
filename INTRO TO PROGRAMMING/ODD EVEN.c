@@ -1,3 +1,4 @@
+// WAP IN C TO CHECK THE NUMBER IS ODD OR EVEN
 #include<stdio.h>
 int main(){
 	int num;
