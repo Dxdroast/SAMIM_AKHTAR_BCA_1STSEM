@@ -1,3 +1,4 @@
+// WAP IN C TO  MAKE A MULTIPLICATION TABLE OF N NUMBER GIVEN BY USER USING DO WHILE
 #include<stdio.h>
 int main(){
 	int n,start=1;
