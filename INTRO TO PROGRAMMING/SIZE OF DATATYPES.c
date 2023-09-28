@@ -1,3 +1,4 @@
+// WAP IN C TO DISPLAY THE  SIZE OF ALL DATATYPES
 #include <stdio.h>
 
 int main() {
