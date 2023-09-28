@@ -15,6 +15,13 @@ int main() {
         case 'i':
         case 'o':
         case 'u':
+        case 'A':
+        case 'E':
+        case 'I':
+        case 'O':
+        case 'U':
+                
+            
             printf("IT IS A VOWEL");
             break;
         default:
