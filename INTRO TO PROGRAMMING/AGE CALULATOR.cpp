@@ -1,3 +1,8 @@
+//WRITE A PROGRAMME IN C TO DEMONSTRATE THE VOTING SYSTEM
+
+
+
+
 #include<stdio.h>
 int main(){
 	int age;
