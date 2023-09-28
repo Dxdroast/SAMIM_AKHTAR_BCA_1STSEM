@@ -1,3 +1,4 @@
+// WAP IN C TO PRINT YOUR NAME FOR N NUMBER OF TIMES GIVEN BY USER USING DO WHILE
 #include<stdio.h>
 int main(){
 	int start,n;
