@@ -1,3 +1,4 @@
+// WAP IN C TO CHECK WHETTHER THE TRIANGLE IS RIGHTANGLE TRIANGLE OR NOT
 #include<stdio.h>
 #include<math.h>
 int main(){
