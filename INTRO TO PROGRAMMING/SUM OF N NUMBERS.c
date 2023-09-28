@@ -1,3 +1,4 @@
+// WAP IN C TO PRINT SUM OF N NUMBERS GIVEN BY THE USER
 #include <stdio.h>
 
 int main() {
