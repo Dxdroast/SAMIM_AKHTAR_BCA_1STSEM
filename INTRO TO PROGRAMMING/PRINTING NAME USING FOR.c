@@ -1,3 +1,4 @@
+// WAP IN C TO PRINT YOUR NAME FOR N NUMBER OF TIMES GIVEN BY THE USER USING FOR LOOP
 #include<stdio.h>
 int main(){
 	int i,n;
