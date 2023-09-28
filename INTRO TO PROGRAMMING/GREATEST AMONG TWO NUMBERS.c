@@ -1,3 +1,4 @@
+// WAP IN C TO FIND THE GREATEST AMONG TWO NUMBERS
 #include<stdio.h>
 int main(){
 	int num1,num2;
