@@ -1,3 +1,4 @@
+// WAP IN C TO PRINT A CHARACTER FOR N NUMBER OF TIME GIVEN BY THE USER USING FOR LOOP
 #include<stdio.h>
 int main(){
 	char ch;
