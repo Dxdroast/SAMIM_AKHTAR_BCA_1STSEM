@@ -1,3 +1,4 @@
+// WAP IN C TO CALCULATE THE FACTORIAL OF A NUMBER GIVEN BY USER USING FOR LOOP
 #include<stdio.h>
 int main(){
 	int fact,product=1;
