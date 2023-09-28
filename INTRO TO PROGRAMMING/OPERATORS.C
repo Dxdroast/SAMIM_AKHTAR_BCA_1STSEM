@@ -1,3 +1,4 @@
+// WAP IN C TO DEMONSTARTE ALL THE OPERATORS IN C
 #include <stdio.h>
 
 int main() {
