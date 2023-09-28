@@ -1,3 +1,4 @@
+// WAP IN C TO CHECK THE NUMBER IS POSITIVE OR NEGATIVE
 #include<stdio.h>
 int main(){
 	int num;
