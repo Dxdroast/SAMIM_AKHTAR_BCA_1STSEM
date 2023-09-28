@@ -1,3 +1,4 @@
+// WAP IN C TO CHECK WHETHER THE CHARACTER IS VOWEL OR NOT USING SWITCH CASE
 #include <stdio.h>
 
 int main() {
