@@ -1,3 +1,4 @@
+// WAP IN C TO DEMONSTRATE THE SHIFT OPERATOR
 #include <stdio.h>
 
 int main() {
