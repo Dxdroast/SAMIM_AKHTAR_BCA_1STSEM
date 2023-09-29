@@ -11,6 +11,6 @@ int main(){
 	//calculate the area of semi parameter
 	s=(a+b+c)/2;
 	area=sqrt(s*(s-a)*(s-b)*(s-c));
-	printf("THE AREA OF TRIANGLE USING HERON'S FORMULA IS : %Lf",area);
+	printf("THE AREA OF TRIANGLE USING HERON'S FORMULA IS : %lf",area);
 	return 0;
 }
