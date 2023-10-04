@@ -1,3 +1,4 @@
+// WAP IN C TO DETERMINE THE DATATYPE OF ANY KEYBOARD INPUT
 #include<stdio.h>
 #include<ctype.h>
 int main(){
