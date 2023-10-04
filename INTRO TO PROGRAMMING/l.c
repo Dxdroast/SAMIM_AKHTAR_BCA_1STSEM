@@ -1,3 +1,4 @@
+// WAP IN C TO MAKE YOUR OWN DIGITAL STORAGE CONVERTER BY TAKING THE SIZE IN KB & CONVERT INTO MB,GB,TB
 #include<stdio.h>
 int main(){
     float kb,mb,gb,tb;
