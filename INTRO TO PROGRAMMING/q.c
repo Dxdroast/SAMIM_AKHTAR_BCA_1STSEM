@@ -1,9 +1,11 @@
+/*write  a programmme in c to accepts one character  and depending on input grade,display
+ the percentage according to this table    A for45%  B for40%  C for30%  D for25% using if else*/
 #include <stdio.h>
 
 int main() {
     char grade;
     printf("Enter a grade (A, B, C, or D): ");
-    scanf(" %c", &grade); // Notice the space before %c to consume any whitespace characters
+    scanf(" %c", &grade); 
 
     int percentage;
 
