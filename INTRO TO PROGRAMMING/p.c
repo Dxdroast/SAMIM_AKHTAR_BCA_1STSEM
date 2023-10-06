@@ -1,3 +1,4 @@
+// WAP IN C TO MAKE THE MONEY CONVERSION TABLE
 #include<stdio.h>
 int main(){
     double rupee;
