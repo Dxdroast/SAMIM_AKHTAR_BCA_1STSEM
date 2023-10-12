@@ -12,7 +12,7 @@ int main() {
     printf("SUM: %d\n",num1+num2);
     printf("SUB: %d\n",num1-num2);
     printf("MUL: %d\n",num1*num2);
-    printf("REMAINDER DIV: %d\n",num1/num2);
-     printf("QUOTIENT DIV: %d\n",num2%num1);
+    printf("REMAINDER : %d\n",num1%num2);
+     printf("QUOTIENT : %d\n",num2/num1);
     
 }
